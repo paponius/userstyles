@@ -1,0 +1,14 @@
+/* ==UserStyle==
+@name           test only
+@namespace      github.com/paponius/userstyles
+@version        1.0.0
+@description    test userstyle
+@author         Papo
+@license        CC-BY-SA-4.0
+==/UserStyle== */
+
+@-moz-document domain("userstyles.world") {
+    noneo {
+color: blue;
+}
+}
